@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "langchain-classic"
+name = "langchain-classic-nikhil"
 description = "Building applications with LLMs through composability"
 license = { text = "MIT" }
 readme = "README.md"
